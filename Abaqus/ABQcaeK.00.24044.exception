@@ -1,0 +1,29 @@
+<Description>
+   A</Description>
+
+<Details>
+   ABQcaeK.exe / rank 0 / thread 0  encountered a system exception 0xC0000005 (EXCEPTION_ACCESS_VIOLATION)
+</Details>
+
+<Context>
+   UNKNOWN
+</Context>
+
+
+<Memory>
+   <Current>             187 MB </Current>
+   <Resident>             99 MB </Resident>
+   <Physical>           8059 MB </Physical>
+   <Limit>                 0 MB </Limit>
+   <Accessible>         8059 MB </Accessible>
+   <Allocator>            DL    </Allocator>
+</Memory>
+
+<Directories>
+  <current> C:\Uni Work\2021 Winter\ESSE 4370\Course Project\Abaqus </current> 
+     <temp> C:\Users\mubee\AppData\Local\Temp </temp>
+</Directories>
+
+<Installation>
+</Installation>
+

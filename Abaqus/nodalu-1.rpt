@@ -1,0 +1,412 @@
+********************************************************************************
+Probe Values Report, written on Fri Apr  2 13:14:32 2021
+
+Source
+-------
+
+   ODB: C:/temp/Prototype1.odb
+   Step: Loading
+   Frame: Increment      1: Step Time =    1.000
+   Variable: U, U1
+
+Probe values reported at nodes
+
+  Part Instance     Node ID            Orig. Coords                     Def. Coords          
+                                 X          Y          Z          X          Y          Z    
+-------------------------------------------------------------------------------------------
+     TRUSS-1           9        0.0        0.0        0.0   -17.E-33    -4.E-33        0.0
+     TRUSS-1          11        0.0        1.0        0.0    17.E-33        1.0        0.0
+     TRUSS-1          10   500.E-03   500.E-03        0.0   500.E-03   500.E-03        0.0
+     TRUSS-1           8        1.0        0.0        0.0  1000.E-03    -3.E-06        0.0
+     TRUSS-1           7        1.0        1.0        0.0        1.0  1000.E-03        0.0
+     TRUSS-1           6         2.   500.E-03        0.0         2.   500.E-03        0.0
+     TRUSS-1           5         2.        0.0        0.0         2.    -8.E-06        0.0
+     TRUSS-1           3         2.        1.0        0.0         2.  1000.E-03        0.0
+     TRUSS-1           4         3.   500.E-03        0.0         3.   500.E-03        0.0
+     TRUSS-1           1         3.        0.0        0.0         3.   -13.E-06        0.0
+     TRUSS-1           2         3.        1.0        0.0         3.  1000.E-03        0.0
+
+
+  Part Instance     Node ID  Attached elements      U, U1
+----------------------------------------------------------
+     TRUSS-1           9        127   -17.E-33
+     TRUSS-1           9        143   -17.E-33
+     TRUSS-1           9        175   -17.E-33
+     TRUSS-1          11        151    17.E-33
+     TRUSS-1          11        161    17.E-33
+     TRUSS-1          11        184    17.E-33
+     TRUSS-1          10        137    19.E-09
+     TRUSS-1          10        144    19.E-09
+     TRUSS-1          10        167    19.E-09
+     TRUSS-1          10        174    19.E-09
+     TRUSS-1           8         75    -2.E-06
+     TRUSS-1           8         76    -2.E-06
+     TRUSS-1           8        107    -2.E-06
+     TRUSS-1           8        136    -2.E-06
+     TRUSS-1           8        150    -2.E-06
+     TRUSS-1           7         65     2.E-06
+     TRUSS-1           7         66     2.E-06
+     TRUSS-1           7        117     2.E-06
+     TRUSS-1           7        160     2.E-06
+     TRUSS-1           7        168     2.E-06
+     TRUSS-1           6         52   -30.E-09
+     TRUSS-1           6         59   -30.E-09
+     TRUSS-1           6         82   -30.E-09
+     TRUSS-1           6         89   -30.E-09
+     TRUSS-1           5         35    -2.E-06
+     TRUSS-1           5         83    -2.E-06
+     TRUSS-1           5         96    -2.E-06
+     TRUSS-1           5         97    -2.E-06
+     TRUSS-1           5        116    -2.E-06
+     TRUSS-1           3         11     2.E-06
+     TRUSS-1           3         21     2.E-06
+     TRUSS-1           3         58     2.E-06
+     TRUSS-1           3        106     2.E-06
+     TRUSS-1           3        126     2.E-06
+     TRUSS-1           4         27   -49.E-09
+     TRUSS-1           4         28   -49.E-09
+     TRUSS-1           4         51   -49.E-09
+     TRUSS-1           4         90   -49.E-09
+     TRUSS-1           1          1    -3.E-06
+     TRUSS-1           1         34    -3.E-06
+     TRUSS-1           1         44    -3.E-06
+     TRUSS-1           2         10     2.E-06
+     TRUSS-1           2         20     2.E-06
+     TRUSS-1           2         45     2.E-06
+
+
+  Minimum                              -3.E-06
+     at Node                                 1
+  Attached elements                                 1
+  in Part Instance                           TRUSS-1
+
+  Maximum                               2.E-06
+     at Node                                 2
+  Attached elements                                10
+  in Part Instance                           TRUSS-1
+
+       Total                         -322.E-09
+
+
+********************************************************************************
+Probe Values Report, written on Fri Apr  2 13:35:45 2021
+
+Source
+-------
+
+   ODB: C:/temp/Prototype1.odb
+   Step: Loading
+   Frame: Increment      1: Step Time =    1.000
+   Variable: U, U2
+
+Probe values reported at nodes
+
+  Part Instance     Node ID            Orig. Coords                     Def. Coords          
+                                 X          Y          Z          X          Y          Z    
+-------------------------------------------------------------------------------------------
+     TRUSS-1           9        0.0        0.0        0.0   -17.E-33    -4.E-33        0.0
+     TRUSS-1          11        0.0        1.0        0.0    17.E-33        1.0        0.0
+     TRUSS-1          10   500.E-03   500.E-03        0.0   500.E-03   500.E-03        0.0
+     TRUSS-1           8        1.0        0.0        0.0  1000.E-03    -3.E-06        0.0
+     TRUSS-1           7        1.0        1.0        0.0        1.0  1000.E-03        0.0
+     TRUSS-1           6         2.   500.E-03        0.0         2.   500.E-03        0.0
+     TRUSS-1           5         2.        0.0        0.0         2.    -8.E-06        0.0
+     TRUSS-1           3         2.        1.0        0.0         2.  1000.E-03        0.0
+     TRUSS-1           4         3.   500.E-03        0.0         3.   500.E-03        0.0
+     TRUSS-1           1         3.        0.0        0.0         3.   -13.E-06        0.0
+     TRUSS-1           2         3.        1.0        0.0         3.  1000.E-03        0.0
+
+
+  Part Instance     Node ID  Attached elements      U, U2
+----------------------------------------------------------
+     TRUSS-1           9        127    -4.E-33
+     TRUSS-1           9        143    -4.E-33
+     TRUSS-1           9        175    -4.E-33
+     TRUSS-1          11        151    -5.E-33
+     TRUSS-1          11        161    -5.E-33
+     TRUSS-1          11        184    -5.E-33
+     TRUSS-1          10        137  -775.E-09
+     TRUSS-1          10        144  -775.E-09
+     TRUSS-1          10        167  -775.E-09
+     TRUSS-1          10        174  -775.E-09
+     TRUSS-1           8         75    -3.E-06
+     TRUSS-1           8         76    -3.E-06
+     TRUSS-1           8        107    -3.E-06
+     TRUSS-1           8        136    -3.E-06
+     TRUSS-1           8        150    -3.E-06
+     TRUSS-1           7         65    -3.E-06
+     TRUSS-1           7         66    -3.E-06
+     TRUSS-1           7        117    -3.E-06
+     TRUSS-1           7        160    -3.E-06
+     TRUSS-1           7        168    -3.E-06
+     TRUSS-1           6         52    -5.E-06
+     TRUSS-1           6         59    -5.E-06
+     TRUSS-1           6         82    -5.E-06
+     TRUSS-1           6         89    -5.E-06
+     TRUSS-1           5         35    -8.E-06
+     TRUSS-1           5         83    -8.E-06
+     TRUSS-1           5         96    -8.E-06
+     TRUSS-1           5         97    -8.E-06
+     TRUSS-1           5        116    -8.E-06
+     TRUSS-1           3         11    -8.E-06
+     TRUSS-1           3         21    -8.E-06
+     TRUSS-1           3         58    -8.E-06
+     TRUSS-1           3        106    -8.E-06
+     TRUSS-1           3        126    -8.E-06
+     TRUSS-1           4         27   -11.E-06
+     TRUSS-1           4         28   -11.E-06
+     TRUSS-1           4         51   -11.E-06
+     TRUSS-1           4         90   -11.E-06
+     TRUSS-1           1          1   -13.E-06
+     TRUSS-1           1         34   -13.E-06
+     TRUSS-1           1         44   -13.E-06
+     TRUSS-1           2         10   -13.E-06
+     TRUSS-1           2         20   -13.E-06
+     TRUSS-1           2         45   -13.E-06
+
+
+********************************************************************************
+Probe Values Report, written on Fri Apr  2 15:03:19 2021
+
+Source
+-------
+
+   ODB: C:/temp/Prototype2.odb
+   Step: Loading
+   Frame: Increment      1: Step Time =    1.000
+   Variable: RF, RF1
+
+Probe values reported at nodes
+
+  Part Instance     Node ID            Orig. Coords                     Def. Coords          
+                                 X          Y          Z          X          Y          Z    
+-------------------------------------------------------------------------------------------
+     TRUSS-1          10        0.0        1.0        0.0   493.E-36        1.0        0.0
+     TRUSS-1          16        0.0         3.        0.0     3.E-33         3.        0.0
+
+
+  Part Instance     Node ID  Attached elements    RF, RF1
+----------------------------------------------------------
+     TRUSS-1          10         79      -493.
+     TRUSS-1          10         89      -493.
+     TRUSS-1          10        154      -493.
+     TRUSS-1          10        179      -493.
+     TRUSS-1          10        186      -493.
+     TRUSS-1          16        234    -3.E+03
+     TRUSS-1          16        241    -3.E+03
+
+
+********************************************************************************
+Probe Values Report, written on Fri Apr  2 18:25:24 2021
+
+Source
+-------
+
+   ODB: C:/temp/Prototype2.odb
+   Step: Loading
+   Frame: Increment      1: Step Time =    1.000
+   Variable: RF, RF2
+
+Probe values reported at nodes
+
+  Part Instance     Node ID            Orig. Coords                     Def. Coords          
+                                 X          Y          Z          X          Y          Z    
+-------------------------------------------------------------------------------------------
+     TRUSS-1          11        0.0        0.0        0.0    -8.E-33    -2.E-33        0.0
+     TRUSS-1          10        0.0        1.0        0.0   493.E-36        1.0        0.0
+     TRUSS-1           9        0.0         2.        0.0     5.E-33         2.        0.0
+     TRUSS-1          16        0.0         3.        0.0     3.E-33         3.        0.0
+
+
+  Part Instance     Node ID  Attached elements    RF, RF2
+----------------------------------------------------------
+     TRUSS-1          11         80     2.E+03
+     TRUSS-1          11         96     2.E+03
+     TRUSS-1          11        251     2.E+03
+     TRUSS-1          10         79     2.E+03
+     TRUSS-1          10         89     2.E+03
+     TRUSS-1          10        154     2.E+03
+     TRUSS-1          10        179     2.E+03
+     TRUSS-1          10        186     2.E+03
+     TRUSS-1           9         63     2.E+03
+     TRUSS-1           9         70     2.E+03
+     TRUSS-1           9        223     2.E+03
+     TRUSS-1           9        224     2.E+03
+     TRUSS-1           9        250     2.E+03
+     TRUSS-1          16        234     3.E+03
+     TRUSS-1          16        241     3.E+03
+
+
+********************************************************************************
+Probe Values Report, written on Fri Apr  2 18:26:36 2021
+
+Source
+-------
+
+   ODB: C:/temp/Prototype2.odb
+   Step: Loading
+   Frame: Increment      1: Step Time =    1.000
+   Variable: U, U1
+
+Probe values reported at nodes
+
+  Part Instance     Node ID            Orig. Coords                     Def. Coords          
+                                 X          Y          Z          X          Y          Z    
+-------------------------------------------------------------------------------------------
+     TRUSS-1          11        0.0        0.0        0.0    -8.E-33    -2.E-33        0.0
+     TRUSS-1          10        0.0        1.0        0.0   493.E-36        1.0        0.0
+     TRUSS-1           9        0.0         2.        0.0     5.E-33         2.        0.0
+     TRUSS-1          16        0.0         3.        0.0     3.E-33         3.        0.0
+
+
+  Part Instance     Node ID  Attached elements      U, U1
+----------------------------------------------------------
+     TRUSS-1          11         80    -8.E-33
+     TRUSS-1          11         96    -8.E-33
+     TRUSS-1          11        251    -8.E-33
+     TRUSS-1          10         79   493.E-36
+     TRUSS-1          10         89   493.E-36
+     TRUSS-1          10        154   493.E-36
+     TRUSS-1          10        179   493.E-36
+     TRUSS-1          10        186   493.E-36
+     TRUSS-1           9         63     5.E-33
+     TRUSS-1           9         70     5.E-33
+     TRUSS-1           9        223     5.E-33
+     TRUSS-1           9        224     5.E-33
+     TRUSS-1           9        250     5.E-33
+     TRUSS-1          16        234     3.E-33
+     TRUSS-1          16        241     3.E-33
+
+
+********************************************************************************
+Probe Values Report, written on Fri Apr  2 18:52:47 2021
+
+Source
+-------
+
+   ODB: C:/temp/Prototype2.odb
+   Step: Loading
+   Frame: Increment      1: Step Time =    1.000
+   Variable: U, U1
+
+Probe values reported at nodes
+
+  Part Instance     Node ID            Orig. Coords                     Def. Coords          
+                                 X          Y          Z          X          Y          Z    
+-------------------------------------------------------------------------------------------
+     TRUSS-1          13         2.   500.E-03        0.0         2.   500.E-03        0.0
+     TRUSS-1           2         2.         2.        0.0         2.         1.        0.0
+     TRUSS-1           6         2.        0.0        0.0         2.   -13.E-06        0.0
+     TRUSS-1           3         2.        1.0        0.0         2.  1000.E-03        0.0
+     TRUSS-1           4         3.   500.E-03        0.0         3.   500.E-03        0.0
+     TRUSS-1           5         3.        0.0        0.0         3.   -25.E-06        0.0
+
+
+  Part Instance     Node ID  Attached elements      U, U1
+----------------------------------------------------------
+     TRUSS-1          13        131    -2.E-06
+     TRUSS-1          13        138    -2.E-06
+     TRUSS-1          13        161    -2.E-06
+     TRUSS-1          13        267    -2.E-06
+     TRUSS-1           2          7     3.E-06
+     TRUSS-1           2          8     3.E-06
+     TRUSS-1           2        130     3.E-06
+     TRUSS-1           6         29    -6.E-06
+     TRUSS-1           6         39    -6.E-06
+     TRUSS-1           6        123    -6.E-06
+     TRUSS-1           6        155    -6.E-06
+     TRUSS-1           6        171    -6.E-06
+     TRUSS-1           3         14   546.E-09
+     TRUSS-1           3         15   546.E-09
+     TRUSS-1           3        113   546.E-09
+     TRUSS-1           3        114   546.E-09
+     TRUSS-1           3        137   546.E-09
+     TRUSS-1           4         21    -2.E-06
+     TRUSS-1           4         22    -2.E-06
+     TRUSS-1           4         45    -2.E-06
+     TRUSS-1           5         28    -8.E-06
+     TRUSS-1           5         38    -8.E-06
+
+
+********************************************************************************
+Probe Values Report, written on Fri Apr  2 20:43:15 2021
+
+Source
+-------
+
+   ODB: C:/temp/Prototype3.odb
+   Step: Loading
+   Frame: Increment      1: Step Time =    1.000
+   Variable: U, U1
+
+Probe values reported at nodes
+
+  Part Instance     Node ID            Orig. Coords                     Def. Coords          
+                                 X          Y          Z          X          Y          Z    
+-------------------------------------------------------------------------------------------
+     TRUSS-1          12   500.E-03        1.0        0.0   500.E-03  1000.E-03        0.0
+     TRUSS-1           2   500.E-03         2.        0.0   500.E-03         2.        0.0
+     TRUSS-1          15        1.0   500.E-03        0.0  1000.E-03   500.E-03        0.0
+     TRUSS-1          11        1.0        1.0        0.0  1000.E-03  1000.E-03        0.0
+     TRUSS-1           6        1.0         2.        0.0        1.0         1.        0.0
+     TRUSS-1           4        1.0         2.        0.0         1.         2.        0.0
+     TRUSS-1           1        1.0         3.        0.0        1.0         2.        0.0
+     TRUSS-1          14         2.        1.0        0.0         2.  1000.E-03        0.0
+     TRUSS-1           5         2.         2.        0.0         2.         1.        0.0
+     TRUSS-1          10         2.         2.        0.0         2.         2.        0.0
+     TRUSS-1           9         3.         2.        0.0         3.         1.        0.0
+
+
+  Part Instance     Node ID  Attached elements      U, U1
+----------------------------------------------------------
+     TRUSS-1          12        135  -859.E-09
+     TRUSS-1          12        141  -859.E-09
+     TRUSS-1          12        243  -859.E-09
+     TRUSS-1          12        249  -859.E-09
+     TRUSS-1           2          6   859.E-09
+     TRUSS-1           2         12   859.E-09
+     TRUSS-1           2         55   859.E-09
+     TRUSS-1           2         61   859.E-09
+     TRUSS-1          15        208    -3.E-06
+     TRUSS-1          15        209    -3.E-06
+     TRUSS-1          15        223    -3.E-06
+     TRUSS-1          15        237    -3.E-06
+     TRUSS-1          15        238    -3.E-06
+     TRUSS-1          11        120    -5.E-06
+     TRUSS-1          11        134    -5.E-06
+     TRUSS-1          11        198    -5.E-06
+     TRUSS-1          11        233    -5.E-06
+     TRUSS-1           6         37   -98.E-15
+     TRUSS-1           6         54   -98.E-15
+     TRUSS-1           6         66   -98.E-15
+     TRUSS-1           6         91   -98.E-15
+     TRUSS-1           6        130   -98.E-15
+     TRUSS-1           6        140   -98.E-15
+     TRUSS-1           4         22     5.E-06
+     TRUSS-1           4         27     5.E-06
+     TRUSS-1           4         95     5.E-06
+     TRUSS-1           4        174     5.E-06
+     TRUSS-1           1          1     3.E-06
+     TRUSS-1           1         13     3.E-06
+     TRUSS-1           1         26     3.E-06
+     TRUSS-1           1         76     3.E-06
+     TRUSS-1           1        156     3.E-06
+     TRUSS-1          14        184    -4.E-06
+     TRUSS-1          14        189    -4.E-06
+     TRUSS-1          14        190    -4.E-06
+     TRUSS-1          14        199    -4.E-06
+     TRUSS-1           5         36  -285.E-15
+     TRUSS-1           5         45  -285.E-15
+     TRUSS-1           5         96  -285.E-15
+     TRUSS-1           5        115  -285.E-15
+     TRUSS-1           5        129  -285.E-15
+     TRUSS-1           5        185  -285.E-15
+     TRUSS-1          10        105     4.E-06
+     TRUSS-1          10        119     4.E-06
+     TRUSS-1          10        165     4.E-06
+     TRUSS-1          10        166     4.E-06
+     TRUSS-1           9        104  -215.E-15
+     TRUSS-1           9        114  -215.E-15
+     TRUSS-1           9        175  -215.E-15
+
+
